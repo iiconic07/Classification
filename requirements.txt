@@ -1,5 +1,5 @@
-absl-py==0.7.1
-astor==0.7.1
+absl-py==0.5.1
+astor==0.5.1
 certifi==2019.3.9
 chardet==3.0.4
 Click==7.0
